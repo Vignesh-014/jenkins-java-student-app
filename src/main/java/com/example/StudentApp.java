@@ -9,7 +9,7 @@ public class StudentApp {
         System.out.println("=================================");
 
         Student student = new Student(
-                101,
+                102,
                 "Vignesh",
                 "CSE"
         );

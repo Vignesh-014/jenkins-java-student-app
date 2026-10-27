@@ -10,19 +10,19 @@ public class StudentTest {
     public void testStudentId() {
 
         Student student = new Student(
-                101,
+                102,
                 "Vignesh",
                 "CSE"
         );
 
-        assertEquals(101, student.getId());
+        assertEquals(102, student.getId());
     }
 
     @Test
     public void testStudentName() {
 
         Student student = new Student(
-                101,
+                102,
                 "Vignesh",
                 "CSE"
         );
@@ -34,7 +34,7 @@ public class StudentTest {
     public void testStudentCourse() {
 
         Student student = new Student(
-                101,
+                102,
                 "Vignesh",
                 "CSE"
         );
